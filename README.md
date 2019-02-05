@@ -4,3 +4,4 @@ several projects using datasets suitable to cpu.
 * Introduction and some basic data analysis about the data set
 * Basic image denoising using CNN based Auto-Encoder
 * Basic Image Classification
+* Self-supervised learning for predicting image rotations
